@@ -1,0 +1,49 @@
+{
+    "base_url": "https://dev.splinkpro.ai/sign-in",
+    "username": "vamhhinamile22@gmail.com",
+    "password": "Test@12345",
+    "browser": "chrome",
+
+    "signup": {
+        "email": "vamshesdsd1l.naemile@otsi.co.in",
+        "newpassword":"Test@12345",
+        "confirmpassword": "Test@12345"
+      
+    },
+    "forgotpassword":{
+        "email": "vamshi.namile@otsi.co.in", 
+        "newpassword":"Test@12345",
+        "confirmpassword": "Test@12345"
+    },
+    "program": {
+        "title": "My Test Program",
+        "description": "This is a test program.",
+        "price": "100",
+        "sport": "Football"
+    },
+    "batch": {
+        "program_name": "My Test Program",
+        "batch_name": "Morning Batch",
+        "start_hour": "06",
+        "start_minute": "00",
+        "end_hour": "08",
+        "end_minute": "00"
+    },
+    "athlete": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "dob": "1990-01-01",
+        "gender": "Male",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890"
+    },
+    "coach": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "dob": "1985-05-10",
+        "gender": "Female",
+        "email": "jane.smith@example.com",
+        "mobile": "9876543210"
+    }
+}
+
