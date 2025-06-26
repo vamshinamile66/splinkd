@@ -17,3 +17,4 @@ def test_onboard_coach(driver):
         email=coach["email"],
         mobile=coach["mobile"]
     )
+    

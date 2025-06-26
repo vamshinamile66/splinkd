@@ -58,20 +58,6 @@ class LoginPage:
           
         except Exception as e:
             print(f"Error during sign out: {e}")
-   # ..existing code...
+   
 
-    def forgotpassword_invalid_email(self, username):
-        self.wait.until(EC.element_to_be_clickable(self.forgotpassword_link)).click()
-        time.sleep(2)
-        username_input_elem = self.wait.until(EC.visibility_of_element_located(self.username_input))
-        username_input_elem.clear()
-        username_input_elem.send_keys(username)
-        self.wait.until(EC.element_to_be_clickable(self.continue_button)).click()
-        # Wait for the error message to appear (update selector as needed)
-        error_elem = self.wait.until(
-            EC.visibility_of_element_located((By.CSS_SELECTOR, 'li[data-type="error"]'))
-        )
-        error_text = error_elem.text
-        print(f"Error message for non-existing email: {error_text}")
-        return error_text
-# ...existing code...
+   

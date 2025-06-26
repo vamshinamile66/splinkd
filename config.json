@@ -1,11 +1,17 @@
 {
     "base_url": "https://dev.splinkpro.ai/sign-in",
-    "username": "vamhhinamile22@gmail.com",
-    "password": "Test@12345",
+    "username": "vamshinamile22@gmail.com",
+    "password": "Test@123",
     "browser": "chrome",
+    "expected_invalid_mail_error_message":"Invalid email",
+    "expected_invalid_password_error_message":"your password is incorrect",
+    "expected_empty_email_error_messge":"Email is required",
+    "expected_empty_password_error_message": "Password is required",
+    
 
     "signup": {
-        "email": "vamshesdsd1l.naemile@otsi.co.in",
+        "email": "vamshesdd3991.naemile@otsi.co.in",
+        "email2": "vamseh34989321.naemile@otsi.co.in",
         "newpassword":"Test@12345",
         "confirmpassword": "Test@12345"
       
@@ -13,7 +19,8 @@
     "forgotpassword":{
         "email": "vamshi.namile@otsi.co.in", 
         "newpassword":"Test@12345",
-        "confirmpassword": "Test@12345"
+        "confirmpassword": "Test@12345",
+        "non_existing_email":"qadev@gmail.com"
     },
     "program": {
         "title": "My Test Program",

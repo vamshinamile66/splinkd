@@ -17,6 +17,8 @@ def run_tests_and_generate_html_report():
         [
             "pytest",
             "tests/test_login.py",
+            # "tests/test_forgotpassword.py",
+            # "tests/test_signup.py",
             "--html=report.html",
             "--self-contained-html"
         ]
@@ -51,8 +53,8 @@ if __name__ == "__main__":
     run_tests_and_generate_html_report()
     html_report = get_html_report_path()
     send_email_with_attachment(
-        subject="Pytest HTML Report",
-        body="Please find the attached Pytest HTML report.",
-        to_email="recipient@example.com",
+        subject="Splink Test Results",
+        body="Dear Team, Kindly find the attached report for the Splink test cases.",
+        to_email="vamshi.namile@otsi.co.in",
         attachment_path=html_report
     )
