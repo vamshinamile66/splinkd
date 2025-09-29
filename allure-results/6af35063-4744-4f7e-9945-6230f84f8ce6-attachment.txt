@@ -1,0 +1,5 @@
+[DEBUG] Available <h6> texts:
+- New program
+- New program
+[INFO] Looking for program using XPath: //h6[contains(translate(normalize-space(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'new program')]
+✅ Clicked on program: new program

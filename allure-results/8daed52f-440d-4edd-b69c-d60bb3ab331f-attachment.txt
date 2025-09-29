@@ -1,0 +1,4 @@
+clicked on signup link
+Entered username:ottsi1757696298@otsi.co.in
+clicked on continue button
+Extracted OTP for ottsi1757696298@otsi.co.in: 144402

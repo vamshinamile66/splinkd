@@ -1,0 +1,3 @@
+✅ Clicked Programs tab
+✅ Clicked Create New Program button
+✅ Clicked Next button

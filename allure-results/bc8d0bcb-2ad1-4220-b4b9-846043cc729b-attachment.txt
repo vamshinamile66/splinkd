@@ -1,0 +1,10 @@
+Entered last name: AA
+Clicked Create button
+Mandatory field validations are captured:
+Last Name
+*: Last Name must be at least 3 characters long
+Entered last name: test data test data test data test data test data data
+Clicked Create button
+Mandatory field validations are captured:
+Last Name
+*: Last Name must be at least 3 characters long

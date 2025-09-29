@@ -1,0 +1,4 @@
+mobile number entered: 8010022
+Clicked on next button
+Mandatory field validations are captured:
+Mobile Number: Invalid Mobile Number

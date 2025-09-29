@@ -1,0 +1,6 @@
+✅ Cleared field: ('xpath', "//input[@name='programname']")
+✅Entered program title:{title}
+✅ Clicked Next button
+Mandatory field validations are captured:
+Program Title
+*: Program Title can only include letters, numbers, spaces, &, ., -, and '

@@ -1,0 +1,5 @@
+mobile number entered: 0901002289
+Clicked on next button
+Mandatory field validations are captured:
+Mobile Number: Invalid Mobile Number
+mobile number entered: 9801122399

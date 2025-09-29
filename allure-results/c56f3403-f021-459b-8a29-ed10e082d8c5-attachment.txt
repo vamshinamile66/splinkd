@@ -1,0 +1,2 @@
+clicked on signup link
+clicked on continue button

@@ -1,0 +1,6 @@
+📂 File uploaded: temp\file1_1757914742_1.xlsx
+✅ File 'file1_1757914742_1.xlsx' is displayed in upload list
+📂 File uploaded: temp\file2_1757914743_2.xlsx
+✅ File 'file2_1757914743_2.xlsx' is displayed in upload list
+📂 File uploaded: temp\file3_1757914743_3.xlsx
+❌ File 'file3_1757914743_3.xlsx' is not displayed in upload list

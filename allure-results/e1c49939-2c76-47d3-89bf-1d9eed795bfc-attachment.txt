@@ -1,0 +1,10 @@
+clicked on signup link
+Entered username:qa1757610833@otsi.co.in
+clicked on continue button
+Extracted OTP for qa1757610833@otsi.co.in: 155254
+clicked on continue button
+Entered password:Test@12345
+Entered password:Test@12345
+clicked on continue button
+Error: Message: 
+

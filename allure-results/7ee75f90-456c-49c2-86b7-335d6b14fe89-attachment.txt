@@ -1,0 +1,2 @@
+✅ Schedules tab clicked
+✅ View options Day/Month/Year/Agenda are visible

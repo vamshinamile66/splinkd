@@ -1,0 +1,7 @@
+clicked on signup link
+Entered username:ottsi1757747081@otsi.co.in
+clicked on continue button
+Entered otp:abcdef
+clicked on continue button
+Mandatory field validations are captured:
+Verify OTP: OTP must contain only numbers

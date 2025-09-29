@@ -1,0 +1,7 @@
+✅Click on program tab
+[INFO] Looking for program: new program
+[INFO] Clicking Coaches tab
+[INFO] Clicking '+ Add Coach' button
+[INFO] Selected coach: Jane Smith
+[INFO] Clicked final 'Add Coach/submit' button
+[INFO] Success message found: Coach added to batch successfully

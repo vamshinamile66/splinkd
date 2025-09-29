@@ -1,0 +1,8 @@
+Academy registration started without filling any data
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title is required
+Mobile Number: Mobile Number is required
+Sports In Your Organisation?: Required
+Expected Errors: ['Name of the Organization/Academy', 'Mobile Number', 'Sports In Your Organisation?']
+Actual Errors: {'Name of the Organization/Academy': 'titleisrequired', 'Mobile Number': 'mobilenumberisrequired', 'Sports In Your Organisation?': 'required'}

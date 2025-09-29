@@ -1,0 +1,2 @@
+clicked on forgotpassword link
+Entered username/email: vamshi.namile@otsi.co.in

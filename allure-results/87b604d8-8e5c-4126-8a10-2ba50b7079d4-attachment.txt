@@ -1,0 +1,5 @@
+clicked on signup link
+Entered username:ottsi1757677340@otsi.co.in
+clicked on continue button
+Entered otp:abcdef
+clicked on continue button

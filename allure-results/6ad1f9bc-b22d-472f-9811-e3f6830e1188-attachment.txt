@@ -1,0 +1,2 @@
+✅ Cleared field: ('xpath', "//input[@name='fee']")
+✅Entered program price:{price}

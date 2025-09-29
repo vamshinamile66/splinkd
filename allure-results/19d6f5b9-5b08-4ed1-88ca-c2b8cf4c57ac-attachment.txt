@@ -1,0 +1,8 @@
+✅Cleared field: ('xpath', "//input[@placeholder='Enter Batch name']")
+✅Entered batch name: AA
+✅Entered start time: 1020A
+✅Entered end time: 1130A
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name must be at least 3 characters long

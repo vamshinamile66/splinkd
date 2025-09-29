@@ -1,0 +1,12 @@
+Clicked Next to proceed to location selection
+Mandatory field validations are captured:
+Name of the Organization/Academy
+*: Title is required
+Mandatory field validations are captured:
+Mobile Number
+*: Mobile Number is required
+Mandatory field validations are captured:
+Sports In Your Organisation?
+*: Required
+Expected Errors: ['Name of the Organization/Academy\n*', 'Mobile Number\n*', 'Sports In Your Organisation?\n*']
+Actual Errors: {'Name of the Organization/Academy\n*': 'Title is required', 'Mobile Number\n*': 'Mobile Number is required', 'Sports In Your Organisation?\n*': 'Required'}

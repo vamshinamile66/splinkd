@@ -1,0 +1,4 @@
+Mandatory field validations are captured:
+Date Of Birth
+*: Must be between 3 and 70 years old
+✅ Athlete Age below 18 yrs then Heading appeared: Parent/Guardian Information

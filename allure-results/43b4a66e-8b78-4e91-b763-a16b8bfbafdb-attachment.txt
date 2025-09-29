@@ -1,0 +1,4 @@
+Checking location field validations by entering remaining details
+academy regitration started
+Academy name entered: QA Academy
+mobile number entered: 9801122399

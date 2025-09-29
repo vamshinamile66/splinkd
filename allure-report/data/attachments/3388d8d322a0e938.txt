@@ -1,0 +1,27 @@
+academy regitration started
+Academy name entered: A
+mobile number entered: 67
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title must be at least 3 characters long
+Mobile Number: Invalid Mobile Number
+Sports In Your Organisation?: Required
+academy regitration started
+Academy name entered: test data test datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest data
+mobile number entered: 67100226774
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title must be at most 50 characters long
+Mobile Number: Invalid Mobile Number
+Sports In Your Organisation?: Required
+academy regitration started
+Academy name entered: 123
+mobile number entered: abc
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title must include at least one alphabetic character
+Mobile Number: Invalid Mobile Number
+Sports In Your Organisation?: Required
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/File size greater 5/largefile.gif
+Toast appeared: File size too large
+Error during sign out: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))

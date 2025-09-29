@@ -1,0 +1,2 @@
+✅Cleared field: ('xpath', "//input[@placeholder='Enter Batch name']")
+✅Entered batch name: new program

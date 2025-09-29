@@ -1,0 +1,12 @@
+academy regitration started
+Academy name entered: QA Academy
+Mobile number entered: 9801122399
+Sports dropdown opened
+Sport selected: Football
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx
+Logo uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg
+Clicked Next to proceed to location selection
+Location entered in search: kukatpally
+Location selected from suggestions
+Clicked on Create Profile button
+Toast appeared: Academy Profile Creation Successful

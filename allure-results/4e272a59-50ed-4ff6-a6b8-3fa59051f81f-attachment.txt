@@ -1,0 +1,4 @@
+Signup page is displayed
+Email is entered: qa1757944973@otsi.co.in
+Clicked on Continue button
+Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))

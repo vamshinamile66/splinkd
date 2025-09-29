@@ -1,0 +1,2 @@
+🔹 Label text: Email
+🔹 Description text: Please provide your Email we will send you an OTP.

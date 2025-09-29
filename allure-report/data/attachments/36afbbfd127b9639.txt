@@ -1,0 +1,23 @@
+Clicked Create Team Member button
+Clicked Create button
+Mandatory field validations are captured:
+First Name
+*: First Name must be at least 3 characters long
+Mandatory field validations are captured:
+Last Name
+*: Last Name must be at least 3 characters long
+Mandatory field validations are captured:
+Date Of Birth
+*: Date of Birth is required
+Mandatory field validations are captured:
+Gender
+*: Required
+Mandatory field validations are captured:
+Email Address
+*: Email is required
+Mandatory field validations are captured:
+Mobile Number
+*: mobile number is required
+Mandatory field validations are captured:
+Permissions
+*: Please enable at least one module

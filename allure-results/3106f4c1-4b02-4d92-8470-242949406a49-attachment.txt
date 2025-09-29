@@ -1,0 +1,6 @@
+✅ Cleared field: ('xpath', "//input[@name='programname']")
+✅Entered program title:{title}
+✅ Clicked Next button
+Mandatory field validations are captured:
+Program Title
+*: Program Title must be at most 50 characters long

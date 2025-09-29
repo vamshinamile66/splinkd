@@ -1,0 +1,14 @@
+✅ Cleared field: ('xpath', "//textarea[@name='description']")
+✅ Cleared field: ('xpath', "//input[@name='fee']")
+Mandatory field validations are captured:
+Program Price
+*: Price must be at least ₹99
+✅ Cleared field: ('xpath', "//input[@name='fee']")
+Mandatory field validations are captured:
+Program Price
+*: Price must not exceed ₹10,000
+✅ Cleared field: ('xpath', "//input[@name='fee']")
+Mandatory field validations are captured:
+Program Price
+*: Invalid Price
+✅ Cleared field: ('xpath', "//input[@name='fee']")

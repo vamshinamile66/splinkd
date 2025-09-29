@@ -1,0 +1,8 @@
+clicked on forgotpassword link
+Entered username:vamshi.namile@otsi.co.in
+Extracted OTP for vamshi.namile@otsi.co.in: 747612
+Entered new password: 123
+Entered confirm password: 123
+clicked on submit button
+Mandatory field validations are captured:
+Password: Password must be at least 8 characters long

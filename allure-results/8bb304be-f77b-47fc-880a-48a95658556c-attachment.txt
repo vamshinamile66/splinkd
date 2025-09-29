@@ -1,0 +1,5 @@
+Entered new password: @@@@@@@@@
+Entered confirm password: @@@@@@@@@
+clicked on submit button
+Mandatory field validations are captured:
+Password: Password must contain at least one lowercase letter

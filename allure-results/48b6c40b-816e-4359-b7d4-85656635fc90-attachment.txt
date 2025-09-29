@@ -1,0 +1,5 @@
+Entered email: test@email
+Clicked Create button
+Mandatory field validations are captured:
+Email Address
+*: Invalid Email

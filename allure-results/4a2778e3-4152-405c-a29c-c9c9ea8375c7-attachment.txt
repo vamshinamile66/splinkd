@@ -1,0 +1,5 @@
+Entered password:Test@1234
+Entered confirm password:Test@4321
+clicked on continue button
+Mandatory field validations are captured:
+Confirm Password: Passwords do not match

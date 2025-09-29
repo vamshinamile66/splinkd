@@ -1,0 +1,2 @@
+[INFO] Clicked final 'Add Coach/submit' button
+[INFO] Success message found: Coach added to batch successfully

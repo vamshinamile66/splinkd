@@ -1,0 +1,33 @@
+clicked on signup link
+Entered username:qa1757655110@otsi.co.in
+clicked on continue button
+Extracted OTP for qa1757655110@otsi.co.in: 791125
+clicked on continue button
+Entered password:Test@12345
+Entered confirm password:Test@12345
+clicked on continue button
+❌ Toast not found: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8fa8a3+63283]
+	GetHandleVerifier [0x0x8fa8e4+63348]
+	(No symbol) [0x0x733e43]
+	(No symbol) [0x0x77c8de]
+	(No symbol) [0x0x77cc7b]
+	(No symbol) [0x0x7c4ef2]
+	(No symbol) [0x0x7a1464]
+	(No symbol) [0x0x7c271a]
+	(No symbol) [0x0x7a1216]
+	(No symbol) [0x0x770855]
+	(No symbol) [0x0x7716f4]
+	GetHandleVerifier [0x0xb6bb43+2623955]
+	GetHandleVerifier [0x0xb66daa+2604090]
+	GetHandleVerifier [0x0x92069a+218410]
+	GetHandleVerifier [0x0x910ed8+154984]
+	GetHandleVerifier [0x0x91742d+180925]
+	GetHandleVerifier [0x0x9022b8+94536]
+	GetHandleVerifier [0x0x902442+94930]
+	GetHandleVerifier [0x0x8ed5ea+9338]
+	BaseThreadInitThunk [0x0x75befcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x76f382ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x76f3827e+238]
+

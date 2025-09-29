@@ -1,0 +1,4 @@
+clicked on forgotpassword link
+Entered username:vamshi.namile@otsi.co.in
+Mandatory field validations are captured:
+Verify OTP: OTP is required

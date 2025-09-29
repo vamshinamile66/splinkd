@@ -1,0 +1,3 @@
+Mandatory field validations are captured:
+First Name
+*: First Name must be at most 100 characters long

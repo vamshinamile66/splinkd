@@ -1,0 +1,2 @@
+❌ File upload failed: HTTPConnectionPool(host='localhost', port=50487): Max retries exceeded with url: /session/bde853878fecd4c3c37642c34c5bd72b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AC4C38AC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+uploaded file:None

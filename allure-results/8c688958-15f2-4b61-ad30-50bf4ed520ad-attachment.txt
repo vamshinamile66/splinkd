@@ -1,0 +1,12 @@
+Clicked My Team tab
+Clicked Create Team Member button
+Entered first name: sanjay
+Entered last name: damu
+Clicked Select date of birth button
+Selected year: 1985
+Selected month: 8
+Selected day: 8
+Selected gender
+Entered email: narayan321@gmail.com
+Entered mobile number: 8012273585
+Clicked Overview input (checkbox)

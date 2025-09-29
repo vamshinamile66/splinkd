@@ -1,0 +1,28 @@
+Entered otp:654321
+clicked on continue button
+Error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.157)
+Stacktrace:
+	GetHandleVerifier [0x0x82a8a3+63283]
+	GetHandleVerifier [0x0x82a8e4+63348]
+	(No symbol) [0x0x663e43]
+	(No symbol) [0x0x653790]
+	(No symbol) [0x0x671602]
+	(No symbol) [0x0x6d7cdc]
+	(No symbol) [0x0x6f1ff9]
+	(No symbol) [0x0x6d1216]
+	(No symbol) [0x0x6a0855]
+	(No symbol) [0x0x6a16f4]
+	GetHandleVerifier [0x0xa9bb43+2623955]
+	GetHandleVerifier [0x0xa96daa+2604090]
+	GetHandleVerifier [0x0x85069a+218410]
+	GetHandleVerifier [0x0x840ed8+154984]
+	GetHandleVerifier [0x0x84742d+180925]
+	GetHandleVerifier [0x0x8322b8+94536]
+	GetHandleVerifier [0x0x832442+94930]
+	GetHandleVerifier [0x0x81d5ea+9338]
+	BaseThreadInitThunk [0x0x75befcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x76f382ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x76f3827e+238]
+

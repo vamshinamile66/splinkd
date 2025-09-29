@@ -1,0 +1,2 @@
+[INFO] Clicked Search Athlete button
+[INFO] Searched and selected athlete: jhon

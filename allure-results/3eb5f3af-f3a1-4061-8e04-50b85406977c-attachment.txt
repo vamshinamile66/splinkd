@@ -1,0 +1,8 @@
+clicked on signup link
+Entered username:ottsi1757693652@otsi.co.in
+clicked on continue button
+Extracted OTP for ottsi1757693652@otsi.co.in: 311378
+clicked on continue button
+clicked on continue button
+Mandatory field validations are captured:
+Password: Password is required

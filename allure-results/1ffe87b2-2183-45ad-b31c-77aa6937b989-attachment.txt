@@ -1,0 +1,5 @@
+Entered mobile number: 8010022
+Clicked Create button
+Mandatory field validations are captured:
+Mobile Number
+*: Invalid mobile number

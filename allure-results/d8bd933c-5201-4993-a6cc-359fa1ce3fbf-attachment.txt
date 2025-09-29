@@ -1,0 +1,7 @@
+clicked on forgotpassword link
+Entered username:vamshi.namile@otsi.co.in
+Extracted OTP for vamshi.namile@otsi.co.in: 931994
+Entered new password: Test@12345
+Entered confirm password: Test@12345
+clicked on submit button
+Toast appeared: Password Updated Successfully, Proceed to Login

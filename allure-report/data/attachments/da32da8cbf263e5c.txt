@@ -1,0 +1,24 @@
+Signup page is displayed
+Email is entered: qa1757169244@otsi.co.in
+Clicked on Continue button
+Switched to OTP admin tab
+Extracted OTP for qa1757169244@otsi.co.in: 391713
+OTP is extracted from admin page
+OTP is entered in the input field
+Clicked on Continue button after entering OTP
+New password is entered
+Confirm password is entered
+Clicked on Continue button after entering passwords
+Success message displayed: OTP is verified successfully. Please proceed to set your password.
+academy regitration started
+Academy name entered: QA Academy
+Mobile number entered: 9801122399
+Sports dropdown opened
+Sport selected: Football
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx
+Logo uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg
+Clicked Next to proceed to location selection
+Location entered in search: kukatpally
+Location selected from suggestions
+Clicked on Create Profile button
+Toast appeared: Academy Profile Creation Successful

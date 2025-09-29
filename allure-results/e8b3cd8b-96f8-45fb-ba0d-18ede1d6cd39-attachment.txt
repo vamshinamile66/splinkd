@@ -1,0 +1,4 @@
+✅ File uploaded: file1.xlsx
+✅ Uploaded file 'file1.xlsx' is displayed
+✅ File uploaded: file2.xlsx
+❌ Uploaded file 'file2.xlsx' is not displayed

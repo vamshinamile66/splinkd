@@ -1,0 +1,6 @@
+clicked on forgotpassword link
+Entered username:vamshinamilemore5@gmail.com
+waiting for 30 sec
+clicked on resend link
+Extracted OTP for vamshinamilemore5@gmail.com: 957502
+✅ Toast captured: SUCCESS - OTP is verified successfully. Please proceed to set your password.

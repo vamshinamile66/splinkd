@@ -1,0 +1,4 @@
+clicked on signup link
+clicked on continue button
+Mandatory field validations are captured:
+Email: Email is required

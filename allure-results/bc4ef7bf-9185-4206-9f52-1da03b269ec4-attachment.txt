@@ -1,0 +1,4 @@
+[DEBUG] Available <h6> texts:
+- List of Batch (0)
+[INFO] Looking for program using XPath: //h6[contains(translate(normalize-space(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'new program')]
+[ERROR] Could not find or click program 'new program': ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))

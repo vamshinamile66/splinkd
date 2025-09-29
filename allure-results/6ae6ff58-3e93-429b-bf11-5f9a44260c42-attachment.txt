@@ -1,0 +1,5 @@
+Entered last name: 12345
+Clicked Create button
+Mandatory field validations are captured:
+Last Name
+*: Last Name must include at least one alphabetic character

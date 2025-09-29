@@ -1,0 +1,5 @@
+clicked on forgotpassword link
+Entered username:vamshinamilemore5@gmail.com
+Extracted OTP for vamshinamilemore5@gmail.com: 359064
+captured OTP value: {'359064'}
+clicked on resend link

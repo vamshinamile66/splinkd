@@ -1,0 +1,5 @@
+academy regitration started
+Academy name entered: 12345
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title must include at least one alphabetic character

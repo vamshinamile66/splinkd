@@ -1,0 +1,6 @@
+Entered first name: @@@@@
+Clicked Create button
+Mandatory field validations are captured:
+First Name
+*: First Name can only include letters, numbers, spaces, &, ., -, and '
+Entered first name: sanjay

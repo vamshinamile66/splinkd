@@ -1,0 +1,44 @@
+Signup page is displayed
+Email is entered: qa1757866115@otsi.co.in
+Clicked on Continue button
+Toast appeared: Please verify OTP Sent to your email
+Error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xe4d2a3+66419]
+	GetHandleVerifier [0x0xe4d2e4+66484]
+	(No symbol) [0x0xc24bd3]
+	(No symbol) [0x0xc2b597]
+	(No symbol) [0x0xc2d974]
+	(No symbol) [0x0xc2da08]
+	(No symbol) [0x0xc6951e]
+	(No symbol) [0x0xc9101c]
+	(No symbol) [0x0xc63e24]
+	(No symbol) [0x0xc911d4]
+	(No symbol) [0x0xcb28a1]
+	(No symbol) [0x0xc90e16]
+	(No symbol) [0x0xc625ce]
+	(No symbol) [0x0xc634a4]
+	GetHandleVerifier [0x0x1095ee3+2461619]
+	GetHandleVerifier [0x0x1090f66+2441270]
+	GetHandleVerifier [0x0xe76242+234258]
+	GetHandleVerifier [0x0xe66208+168664]
+	GetHandleVerifier [0x0xe6d1ad+197245]
+	GetHandleVerifier [0x0xe555f8+100040]
+	GetHandleVerifier [0x0xe55792+100450]
+	GetHandleVerifier [0x0xe3f74a+10266]
+	BaseThreadInitThunk [0x0x7563fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7769827e+238]
+
+Switched to OTP admin tab
+Extracted OTP for qa1757866115@otsi.co.in: 367900
+OTP is extracted from admin page
+OTP is entered in the input field
+Clicked on Continue button after entering OTP
+Toast appeared: OTP is verified successfully. Please proceed to set your password.
+New password is entered
+Confirm password is entered
+Clicked on Continue button after entering passwords
+Error: Message: 
+

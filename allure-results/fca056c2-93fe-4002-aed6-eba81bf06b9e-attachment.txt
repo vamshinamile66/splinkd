@@ -1,0 +1,6 @@
+clicked on forgotpassword link
+Entered username:vamshi.namile@otsi.co.in
+Extracted OTP for vamshi.namile@otsi.co.in: 874214
+clicked on submit button
+Mandatory field validations are captured:
+Password: Password is required

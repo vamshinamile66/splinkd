@@ -1,0 +1,7 @@
+✅ Clicked Programs tab
+✅ Clicked Create New Program button
+✅ Cleared field: ('xpath', "//input[@name='programname']")
+✅Entered program title:{title}
+✅ Cleared field: ('xpath', "//textarea[@name='description']")
+✅Entered program description:{description}
+✅ Cleared field: ('xpath', "//input[@name='fee']")

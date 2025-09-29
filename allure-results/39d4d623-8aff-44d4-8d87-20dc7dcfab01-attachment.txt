@@ -1,0 +1,14 @@
+Clicked My Team tab
+Clicked Create Team Member button
+Entered first name: sanjay20
+Entered last name: damu20
+Clicked Select date of birth button
+Selected year: 1985
+Selected month: 8
+Selected day: 8
+Selected gender
+Entered email: myteam175828120920@otsi.co.in
+Entered mobile number: 9238840882
+Clicked Overview input (checkbox)
+Clicked Create button
+Toast appeared: Staff Profile Creation Successful

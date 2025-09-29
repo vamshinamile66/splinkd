@@ -1,0 +1,4 @@
+Entered username:dummy@gmail.com
+Entered password:Test@123
+Clicked On Login button
+Toast appeared: You are not registered with us, please Sign Up

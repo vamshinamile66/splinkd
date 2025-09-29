@@ -1,0 +1,15 @@
+Signup page is displayed
+Email is entered: qa1757920672@otsi.co.in
+Clicked on Continue button
+Toast appeared: Please verify OTP Sent to your email
+Switched to OTP admin tab
+Extracted OTP for qa1757920672@otsi.co.in: 773799
+OTP is extracted from admin page
+OTP is entered in the input field
+Clicked on Continue button after entering OTP
+Toast appeared: OTP is verified successfully. Please proceed to set your password.
+New password is entered
+Confirm password is entered
+Clicked on Continue button after entering passwords
+Error: Message: 
+

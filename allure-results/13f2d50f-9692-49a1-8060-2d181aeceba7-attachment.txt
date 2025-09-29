@@ -1,0 +1,27 @@
+❌ Could not delete file 'file3.xlsx' → Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe4d2a3+66419]
+	GetHandleVerifier [0x0xe4d2e4+66484]
+	(No symbol) [0x0xc24bd3]
+	(No symbol) [0x0xc6e958]
+	(No symbol) [0x0xc6ecfb]
+	(No symbol) [0x0xcb5152]
+	(No symbol) [0x0xc91064]
+	(No symbol) [0x0xcb28a1]
+	(No symbol) [0x0xc90e16]
+	(No symbol) [0x0xc625ce]
+	(No symbol) [0x0xc634a4]
+	GetHandleVerifier [0x0x1095ee3+2461619]
+	GetHandleVerifier [0x0x1090f66+2441270]
+	GetHandleVerifier [0x0xe76242+234258]
+	GetHandleVerifier [0x0xe66208+168664]
+	GetHandleVerifier [0x0xe6d1ad+197245]
+	GetHandleVerifier [0x0xe555f8+100040]
+	GetHandleVerifier [0x0xe55792+100450]
+	GetHandleVerifier [0x0xe3f74a+10266]
+	BaseThreadInitThunk [0x0x7563fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7769827e+238]
+
+✅ 'Choose File' option is available
+👉 After deleting one file, 'Choose File' available? True

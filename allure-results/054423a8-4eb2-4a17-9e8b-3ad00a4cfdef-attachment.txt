@@ -1,0 +1,5 @@
+Entered username:vamshinamilemore5@gmail.com
+Verify OTP is present
+Clicked Continue button on Verify OTP screen
+Mandatory field validations are captured:
+Verify OTP: OTP is required

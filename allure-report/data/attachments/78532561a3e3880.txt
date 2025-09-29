@@ -1,0 +1,3 @@
+Clicked on next button
+Location entered in search: kukatpally
+Toast appeared: Academy Profile Creation Successful

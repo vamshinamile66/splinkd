@@ -1,0 +1,6 @@
+✅Cleared field: ('xpath', "//input[@placeholder='Enter Batch name']")
+✅Entered batch name: test data test datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest data
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name must be at most 100 characters long

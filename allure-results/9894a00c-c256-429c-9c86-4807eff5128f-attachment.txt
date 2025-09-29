@@ -1,0 +1,4 @@
+clicked on signup link
+Entered username:ottsi1757696771@otsi.co.in
+clicked on continue button
+✅ Resend timer is displayed initially.

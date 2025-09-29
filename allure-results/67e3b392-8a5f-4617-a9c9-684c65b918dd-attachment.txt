@@ -1,0 +1,4 @@
+clicked on signup link
+Entered username:ottsi1757674466@otsi.co.in
+clicked on continue button
+Toast appeared: Please verify OTP Sent to your email

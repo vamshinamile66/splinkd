@@ -1,0 +1,5 @@
+Entered first name: AA
+Clicked Create button
+Mandatory field validations are captured:
+First Name
+*: First Name must be at least 3 characters long

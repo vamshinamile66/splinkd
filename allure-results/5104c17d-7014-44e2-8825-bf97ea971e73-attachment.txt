@@ -1,0 +1,6 @@
+Mandatory field validations are captured:
+First Name
+*: First Name must include at least one alphabetic character
+Mandatory field validations are captured:
+Last Name
+*: Last Name must be at least 3 characters long
