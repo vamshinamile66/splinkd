@@ -4,4 +4,5 @@ webdriver-manager
 pytest-html
 #pytest --alluredir=allure-results & allure generate allure-results --clean -o allure-report & allure serve allure-results
 #testdata etye
+# Trigger CI update
 
