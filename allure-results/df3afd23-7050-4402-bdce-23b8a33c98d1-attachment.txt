@@ -1,0 +1,5 @@
+clicked on forgotpassword link
+Entered username:vamshinamilemore5@gmail.com
+waiting for 30 sec
+clicked on resend link
+Toast appeared: Please verify OTP Sent to your email

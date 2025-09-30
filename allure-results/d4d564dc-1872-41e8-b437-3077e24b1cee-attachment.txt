@@ -1,0 +1,5 @@
+Entered password:abcdefghi
+Entered confirm password:abcdefghi
+clicked on continue button
+Mandatory field validations are captured:
+Password: Password must contain at least one uppercase letter

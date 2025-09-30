@@ -1,0 +1,3 @@
+Signup page is displayed
+Email is entered: qa1757927607@otsi.co.in
+Clicked on Continue button

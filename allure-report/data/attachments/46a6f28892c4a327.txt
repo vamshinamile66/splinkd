@@ -1,0 +1,24 @@
+Signup page is displayed
+Email is entered: qa1757169304@otsi.co.in
+Clicked on Continue button
+Switched to OTP admin tab
+Extracted OTP for qa1757169304@otsi.co.in: 311754
+OTP is extracted from admin page
+OTP is entered in the input field
+Clicked on Continue button after entering OTP
+New password is entered
+Confirm password is entered
+Clicked on Continue button after entering passwords
+Success message displayed: OTP is verified successfully. Please proceed to set your password.
+Clicked Next to proceed to location selection
+Mandatory field validations are captured:
+Name of the Organization/Academy
+*: Title is required
+Mandatory field validations are captured:
+Mobile Number
+*: Mobile Number is required
+Mandatory field validations are captured:
+Sports In Your Organisation?
+*: Required
+Expected Errors: ['Name of the Organization/Academy\n*', 'Mobile Number\n*', 'Sports In Your Organisation?\n*']
+Actual Errors: {'Name of the Organization/Academy\n*': 'Title is required', 'Mobile Number\n*': 'Mobile Number is required', 'Sports In Your Organisation?\n*': 'Required'}

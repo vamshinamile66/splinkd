@@ -1,0 +1,17 @@
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title is required
+Mobile Number: Mobile Number is required
+Sports In Your Organisation?: Required
+Expected Errors: ['Name of the Organization/Academy', 'Mobile Number', 'Sports In Your Organisation?']
+Actual Errors: {'Name of the Organization/Academy': 'titleisrequired', 'Mobile Number': 'mobilenumberisrequired', 'Sports In Your Organisation?': 'required'}
+academy regitration started
+Academy name entered: QA Academy
+mobile number entered: 9801122399
+Sport selected: Football
+Logo uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx
+Clicked on next button
+Location entered in search: 
+Clicked on Create Profile button
+Branch error message: At least one branch location is required

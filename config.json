@@ -1,49 +1,155 @@
 {
     "base_url": "https://dev.splinkpro.ai/sign-in",
-    "username": "vamhhinamile22@gmail.com",
-    "password": "Test@12345",
+    "1stg_base_url": "https://stg.splinkpro.ai/sign-in",
+    "1base_url":"https://stg.splinkpro.ai/sign-in",
+    "captch_url": "https://dev-api.splinkpro.ai/v1/admin/otp-cache/list",
+    "username": "vamshinamile22@gmail.com",
+    "password": "Test@123",
+    "1username":"vamshinamile22+academyprod@gmail.com",
+    "1password": "Test@1234",
     "browser": "chrome",
+    "expected_invalid_mail_error_message":"Invalid email",
+    "expected_invalid_password_error_message":"your password is incorrect",
+    "expected_empty_email_error_messge":"Email is required",
+    "expected_empty_password_error_message": "Password is required",
+    
 
     "signup": {
-        "email": "vamshesdsd1l.naemile@otsi.co.in",
+        "email": "dynamic@gmail.com",
+        "email2": "dynamic@gmail.com",
+        "existing_email":"vamshinamile22@gmail.com",
         "newpassword":"Test@12345",
-        "confirmpassword": "Test@12345"
+        "confirmpassword": "Test@12345",
+        "invalid_email1":"123",
+        "invalid_email2":"test@.com",
+        "invalid_otp":"123456",
+        "less_otp":"123",
+        "alpha_otp":"abcdef",
+        "incorrect_otp":"654321",
+        "set_min":"123",
+        "set_num":"12345678",
+        "set_alpha":"abcdefghi",
+        "set_sym":"@@@@@@@@@",
+        "set_min_pass":"a@123",
+        "mismatch_new":"Test@1234",
+        "mismatch_conf":"Test@4321"
+
       
     },
+    "academy_reg": {
+        "academy_name": "QA Academy",
+        "mobile_number": "9801122399",
+        "location": "kukatpally",
+        "sports": "Football",
+        "file_path":"C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx",        
+        "logo_path":  "C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg"
+    },
+    "academy_required_fields": {
+    "expected": [
+      "Name of the Organization/Academy",
+      "Mobile Number",
+      "Sports In Your Organisation?"]
+  },
+  "branch_required_fields": {
+  "expected": [
+    "At least one branch location is required"  ]
+ },
+    
     "forgotpassword":{
         "email": "vamshi.namile@otsi.co.in", 
         "newpassword":"Test@12345",
-        "confirmpassword": "Test@12345"
+        "confirmpassword": "Test@12345",
+        "non_existing_email":"qadev@gmail.com",
+        "email_5times":"vamshinamilemore5@gmail.com",
+        "set_min":"123",
+        "set_num":"12345678",
+        "set_alpha":"abcdefghi",
+        "set_sym":"@@@@@@@@@",
+        "set_min_pass":"a@123",
+        "mismatch_new":"Test@1234",
+        "mismatch_conf":"Test@4321",
+        "invalid_otp_alpha":"abcdef",
+        "static_invalid_otp_number":"123456"
     },
     "program": {
-        "title": "My Test Program",
+        "title": "new program",
         "description": "This is a test program.",
-        "price": "100",
-        "sport": "Football"
+        "price": "1000",
+        "cover_image_path":"C:/Users/vamshi.namile/Downloads/cricket_images.jpg"
+       
     },
     "batch": {
-        "program_name": "My Test Program",
         "batch_name": "Morning Batch",
-        "start_hour": "06",
-        "start_minute": "00",
-        "end_hour": "08",
-        "end_minute": "00"
+        "start_time": "1020A",
+        "end_time": "1130A"
+        
     },
     "athlete": {
-        "first_name": "John",
+        "first_name": "rama",   
         "last_name": "Doe",
-        "dob": "1990-01-01",
-        "gender": "Male",
-        "email": "john.doe@example.com",
-        "mobile": "1234567890"
+        "year": "1990",
+        "gender_value": "Male",
+        "email": "dynamic_email@otsi.co.in",
+        "mobile": "7010022788",
+         "password":"Test@123",
+        "confirm_password": "Test@123"
     },
     "coach": {
-        "first_name": "Jane",
+        "first_name": "kiran",
         "last_name": "Smith",
-        "dob": "1985-05-10",
-        "gender": "Female",
-        "email": "jane.smith@example.com",
-        "mobile": "9876543210"
-    }
-}
+        "year": "1985",
+        "gender_value": "Female",
+        "email": "jane.samsith1@example.com",
+        "mobile": "9876543210",
+         "password":"Test@123",
+        "confirm_password": "Test@123"
+    },
+    "my_team": {
+        "first_name": "sanjay",
+        "last_name": "damu",
+        "month": "8",
+        "day": "8",
+        "year": "1985",
+        "gender_value": "Female",
+        "email": "damu.sagar@example.com",
+        "mobile": "8012273585",
+        "password":"Test@123",
+        "confirm_password": "Test@123"
+    },
+        "validations": {
+        "min_value":"AA",
+        "max_value":"They remain healthy and fit both physically and mentally and always remain dedicated to their work. Games and sports are played across the world. Some of the popular sports and games are cricket, football, swimming, cycling, basketball, chess, etc. It does not matter what kind of game or sports one is involved in.",
+        "invalid_characters":"!@#$%^&*()_+={}[]|\\:;\"'<>,.?/~`",
+        "max_program_value":"test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data test data ",
+        "Number":"12345",
+        "symbol":"@@@@@",
+        "mobile_symbols":"@@@@@@@@@@",
+        "alphanumeric":"Test12345",
+        "alphabit":"TestData",
+        "price_min":"0",
+        "price_max":"1000000",
+        "invalid_email":"test@email",
+        "invalid_mobile_less9":"8010022",
+        "invalid_mobile_text":"abc",
+        "invalid_mobile_zero":"0901002289",
+        "age>70":"1950",
+        "age<5":"2022",
+        "static_email":"narayan321@gmail.com",
+        "incorrect_email":"test@test"
+       
 
+    },
+
+    "batch_validations": {
+        "min_value":"AA",
+        "max_value":"test data test datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest data",
+        "invalid_characters":"!@#$%^&*()_+={}[]|\\:;\"'<>,.?/~`",
+        "Number":"12345",
+        "symbols":"@@@@@"
+       
+
+
+    }}
+    
+
+ 

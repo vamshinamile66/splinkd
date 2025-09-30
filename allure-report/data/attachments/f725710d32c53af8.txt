@@ -1,0 +1,8 @@
+✅Click on program tab
+[INFO] Looking for program: summer8 cricket program1234
+[INFO] Clicked Search Athlete button
+[INFO] Searched and selected athlete: John
+✅ Opened dropdown
+✅ Selected option via keyboard
+[INFO] Clicked Add Athlete submit button
+[INFO] Success message: 

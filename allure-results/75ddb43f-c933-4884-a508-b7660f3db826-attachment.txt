@@ -1,0 +1,5 @@
+Entered last name: They remain healthy and fit both physically and mentally and always remain dedicated to their work. Games and sports are played across the world. Some of the popular sports and games are cricket, football, swimming, cycling, basketball, chess, etc. It does not matter what kind of game or sports one is involved in.
+Clicked Create button
+Mandatory field validations are captured:
+Last Name
+*: Last Name must be at most 100 characters long

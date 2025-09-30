@@ -1,0 +1,6 @@
+Entered email: 12345
+Clicked Create button
+Mandatory field validations are captured:
+Email Address
+*: Invalid Email
+Entered email: narayan321@gmail.com

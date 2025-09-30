@@ -1,0 +1,28 @@
+📂 File uploaded: file1.xlsx
+✅ File 'file1.xlsx' is displayed in upload list
+❌ File upload failed: Message: invalid argument: File not found : C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/file2.xlsx
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0xf0d2a3+66419]
+	GetHandleVerifier [0x0xf0d2e4+66484]
+	(No symbol) [0x0xce4bd3]
+	(No symbol) [0x0xd27c74]
+	(No symbol) [0x0xd5101c]
+	(No symbol) [0x0xd23e24]
+	(No symbol) [0x0xd511d4]
+	(No symbol) [0x0xd728a1]
+	(No symbol) [0x0xd50e16]
+	(No symbol) [0x0xd225ce]
+	(No symbol) [0x0xd234a4]
+	GetHandleVerifier [0x0x1155ee3+2461619]
+	GetHandleVerifier [0x0x1150f66+2441270]
+	GetHandleVerifier [0x0xf36242+234258]
+	GetHandleVerifier [0x0xf26208+168664]
+	GetHandleVerifier [0x0xf2d1ad+197245]
+	GetHandleVerifier [0x0xf155f8+100040]
+	GetHandleVerifier [0x0xf15792+100450]
+	GetHandleVerifier [0x0xeff74a+10266]
+	BaseThreadInitThunk [0x0x7563fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7769827e+238]
+

@@ -1,0 +1,1 @@
+✅ Resend OTP link is clickable after timer finished.

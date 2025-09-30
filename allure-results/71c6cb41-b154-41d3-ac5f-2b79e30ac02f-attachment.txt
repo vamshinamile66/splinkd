@@ -1,0 +1,6 @@
+clicked on signup link
+Entered username:ottsi1757677823@otsi.co.in
+clicked on continue button
+Entered otp:654321
+clicked on continue button
+Toast appeared: Invalid OTP

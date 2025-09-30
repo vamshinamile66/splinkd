@@ -1,0 +1,3 @@
+clicked on forgotpassword link
+Clicked Continue button 6 times
+Toast appeared: Too many failed OTP attempts. Account locked for 15 minutes.

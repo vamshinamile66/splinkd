@@ -1,0 +1,6 @@
+✅ Cleared field: ('xpath', "//input[@name='fee']")
+✅Entered program price:{price}
+✅ Clicked Next button
+Mandatory field validations are captured:
+Program Price
+*: Price must be at least ₹99

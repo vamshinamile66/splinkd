@@ -1,0 +1,2 @@
+❌ File upload failed: ❌ No file input found on the page
+✅ Academy Supporting document uploaded successfully

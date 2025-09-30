@@ -1,0 +1,12 @@
+Signup page is displayed
+Email is entered: qa1757171596@otsi.co.in
+Clicked on Continue button
+Switched to OTP admin tab
+Extracted OTP for qa1757171596@otsi.co.in: 585250
+OTP is extracted from admin page
+OTP is entered in the input field
+Clicked on Continue button after entering OTP
+New password is entered
+Confirm password is entered
+Clicked on Continue button after entering passwords
+Success message displayed: OTP is verified successfully. Please proceed to set your password.

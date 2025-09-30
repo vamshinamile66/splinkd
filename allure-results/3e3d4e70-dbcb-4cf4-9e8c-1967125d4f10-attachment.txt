@@ -1,0 +1,18 @@
+✅ Clicked Programs tab
+✅ Clicked Create New Program button
+✅ Clicked Next button
+Mandatory field validations are captured:
+Program Title
+*: Program Title is required
+Mandatory field validations are captured:
+Describe Your Program
+*: Description is required
+Mandatory field validations are captured:
+Program Price
+*: Invalid Price
+Mandatory field validations are captured:
+Select The Sport For The Program
+*: Required
+Mandatory field validations are captured:
+Program Best Fit'S For?
+*: Required

@@ -1,0 +1,25 @@
+Error during sign out: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xf2a8a3+63283]
+	GetHandleVerifier [0x0xf2a8e4+63348]
+	(No symbol) [0x0xd63ca0]
+	(No symbol) [0x0xd9fb48]
+	(No symbol) [0x0xdd12d6]
+	(No symbol) [0x0xdcceb5]
+	(No symbol) [0x0xdcc436]
+	(No symbol) [0x0xd35755]
+	(No symbol) [0x0xd35cae]
+	(No symbol) [0x0xd3613d]
+	GetHandleVerifier [0x0x119bb43+2623955]
+	GetHandleVerifier [0x0x1196daa+2604090]
+	GetHandleVerifier [0x0xf5069a+218410]
+	GetHandleVerifier [0x0xf40ed8+154984]
+	GetHandleVerifier [0x0xf4742d+180925]
+	(No symbol) [0x0xd35420]
+	(No symbol) [0x0xd34c36]
+	GetHandleVerifier [0x0x12d68fc+3913612]
+	BaseThreadInitThunk [0x0x75befcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x76f382ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x76f3827e+238]
+
+User logged out successfully.

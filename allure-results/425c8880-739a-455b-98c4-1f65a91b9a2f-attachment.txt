@@ -1,0 +1,1 @@
+✅ Email displayed correctly after navigation to set password screen.

@@ -1,0 +1,4 @@
+✅ Cleared field: ('xpath', "//textarea[@name='description']")
+Mandatory field validations are captured:
+Describe Your Program
+*: Description must be at least 3 characters long

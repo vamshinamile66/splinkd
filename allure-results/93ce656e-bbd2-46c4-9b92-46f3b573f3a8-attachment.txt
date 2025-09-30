@@ -1,0 +1,9 @@
+Extracted OTP for team1758043057@otsi.co.in: 704392
+Success message displayed: OTP is verified successfully. Please proceed to set your password.
+Clicked on Profile Avatar
+displayed email: team1758043057@otsi.co.in
+Onborded team email: team1758043057@otsi.co.in
+✅ Email matched successfully!
+Displayed Modules List ['OVERVIEW']
+Assigned and displayed modules count matched
+Assigned modules and displayed modules are same

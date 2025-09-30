@@ -1,0 +1,4 @@
+clicked on forgotpassword link
+Entered username:
+Mandatory field validations are captured:
+Email: Email is required

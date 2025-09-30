@@ -1,0 +1,33 @@
+Clicked Next to proceed to location selection
+Mandatory field validations are captured:
+Name of the Organization/Academy
+*: Title is required
+Mandatory field validations are captured:
+Name of the Organization/Academy
+*: titleisrequired (raw: Title is required)
+Mandatory field validations are captured:
+Mobile Number
+*: Mobile Number is required
+Mandatory field validations are captured:
+Mobile Number
+*: mobilenumberisrequired (raw: Mobile Number is required)
+Mandatory field validations are captured:
+Sports In Your Organisation?
+*: Required
+Mandatory field validations are captured:
+Sports In Your Organisation?
+*: required (raw: Required)
+Expected Errors: ['Name of the Organization/Academy\n*', 'Mobile Number\n*', 'Sports In Your Organisation?\n*']
+Actual Errors: {'Name of the Organization/Academy\n*': 'titleisrequired', 'Mobile Number\n*': 'mobilenumberisrequired', 'Sports In Your Organisation?\n*': 'required'}
+academy regitration started
+Academy name entered: QA Academy
+Mobile number entered: 9801122399
+Sports dropdown opened
+Sport selected: Football
+Logo uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx
+Clicked Next to proceed to location selection
+Location entered in search: 
+Location selected from suggestions
+Clicked on Create Profile button
+Branch error message displayed as expected for empty location

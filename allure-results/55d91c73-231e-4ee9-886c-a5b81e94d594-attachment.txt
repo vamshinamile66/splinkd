@@ -1,0 +1,12 @@
+Checking location field validations by entering remaining details
+academy regitration started
+Academy name entered: QA Academy
+mobile number entered: 9801122399
+Sport selected: Football
+Logo uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx
+Clicked on next button
+Location entered in search: 
+clicked on the create button without adding location
+Branch error message: At least one branch location is required
+Clicked Previous to go back to academy details

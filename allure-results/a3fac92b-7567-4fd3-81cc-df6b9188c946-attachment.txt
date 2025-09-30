@@ -1,0 +1,5 @@
+academy regitration started
+Academy name entered: AA
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title must be at least 3 characters long

@@ -1,0 +1,6 @@
+Mandatory field validations are captured:
+Email Address
+*: Invalid Email
+Mandatory field validations are captured:
+Email Address
+*: Invalid Email

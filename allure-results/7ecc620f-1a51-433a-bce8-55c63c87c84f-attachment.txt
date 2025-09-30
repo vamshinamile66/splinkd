@@ -1,0 +1,3 @@
+clicked on continue button
+Mandatory field validations are captured:
+Verify OTP: OTP is required

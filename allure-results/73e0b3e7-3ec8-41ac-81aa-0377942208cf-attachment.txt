@@ -1,0 +1,4 @@
+❌ Could not delete file 'file1.xlsx' → Message: 
+
+ℹ️ 'Choose File' visible: True
+👉 After deleting one file, 'Choose File' available? True

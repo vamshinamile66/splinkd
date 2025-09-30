@@ -1,0 +1,6 @@
+✅Cleared field: ('xpath', "//input[@placeholder='Enter Batch name']")
+✅Entered batch name: @@@@@
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name can only include letters, numbers, spaces, &, ., -, and '

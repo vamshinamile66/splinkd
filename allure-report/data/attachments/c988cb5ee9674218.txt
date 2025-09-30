@@ -1,0 +1,3 @@
+Actual email error: 'Email is required'
+Actual password error: 'Password is required'
+Login test with empty username and empty password executed successfully!

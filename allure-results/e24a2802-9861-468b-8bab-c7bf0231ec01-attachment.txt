@@ -1,0 +1,4 @@
+✅ Cleared field: ('xpath', "//input[@name='fee']")
+Mandatory field validations are captured:
+Program Price
+*: Invalid Price

@@ -1,0 +1,7 @@
+✅ Cleared field: ('xpath', "//input[@name='programname']")
+✅Entered program title:{title}
+✅ Clicked Next button
+Mandatory field validations are captured:
+Program Title
+*: Program Title must be at least 3 characters long
+✅ Cleared field: ('xpath', "//input[@name='programname']")

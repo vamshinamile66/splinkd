@@ -1,0 +1,11 @@
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name must be at least 3 characters long
+Mandatory field validations are captured:
+All Days
+*: Start time is required
+Mandatory field validations are captured:
+All Days
+*: End time is required
+✅clicked on cancel button

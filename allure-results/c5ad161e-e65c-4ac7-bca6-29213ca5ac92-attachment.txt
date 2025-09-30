@@ -1,0 +1,6 @@
+Entered password:@@@@@@@@@
+Entered confirm password:@@@@@@@@@
+clicked on continue button
+Mandatory field validations are captured:
+Password: Password must contain at least one lowercase letter
+Unknown field: Passwords do not match

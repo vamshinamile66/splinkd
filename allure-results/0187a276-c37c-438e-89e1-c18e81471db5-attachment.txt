@@ -1,0 +1,3 @@
+Files uploaded: ('C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/cricketq.jpg', 'C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/basket.jpg', 'C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/file1.xlsx', 'C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/file2.xlsx', 'C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/file3.xlsx')
+ℹ️ 'Choose File' option not found
+👉 After 5 uploads, 'Choose File' available? False

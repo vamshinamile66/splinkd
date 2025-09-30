@@ -1,0 +1,4 @@
+📂 File uploaded: 50splink.xlsx
+✅ Uploaded file '50splink.xlsx' is displayed
+✅ File '50splink.xlsx' deleted successfully
+waiting for 60 seconds to visually confirm deletion...

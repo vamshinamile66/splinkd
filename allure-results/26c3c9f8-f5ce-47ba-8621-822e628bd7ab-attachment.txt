@@ -1,0 +1,3 @@
+clicked on forgotpassword link
+Entered username:vamshinamilemore5@gmail.com
+Extracted OTP for vamshinamilemore5@gmail.com: 930050

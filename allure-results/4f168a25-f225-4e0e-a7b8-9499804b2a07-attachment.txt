@@ -1,0 +1,6 @@
+academy regitration started
+Academy name entered: QA Academy
+mobile number entered: 9801122399
+Sport selected: Football
+File uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/TestDataSplink_table.xlsx
+Logo uploaded: C:/Users/vamshi.namile/Desktop/Test data Upload/splinktestdata/academy2.jpeg

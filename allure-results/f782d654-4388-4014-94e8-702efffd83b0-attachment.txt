@@ -1,0 +1,4 @@
+Entered username:test@.com
+clicked on continue button
+Mandatory field validations are captured:
+Email: Invalid Email

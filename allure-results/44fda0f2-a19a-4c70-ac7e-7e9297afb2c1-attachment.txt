@@ -1,0 +1,9 @@
+clicked on signup link
+Entered username:ottsi1757671089@otsi.co.in
+clicked on continue button
+Extracted OTP for ottsi1757671089@otsi.co.in: 864996
+clicked on continue button
+Entered password:Test@12345
+Entered confirm password:Test@12345
+clicked on continue button
+✅User is successfully logged In

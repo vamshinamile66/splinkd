@@ -1,0 +1,7 @@
+📂 File uploaded: file1.xlsx
+📂 File uploaded: data.txt
+📂 File uploaded: basketball.jpg
+📂 File uploaded: sampledata.xlsx
+📂 File uploaded: 50splink.xlsx
+ℹ️ 'Choose File' visible: True
+👉 After 5 uploads, 'Choose File' available? True

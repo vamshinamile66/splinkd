@@ -1,0 +1,4 @@
+📂 File uploaded: file1.xlsx
+📂 File uploaded: data.txt
+📂 File uploaded: basketball.jpg
+❌ File upload failed: ❌ No file input found on the page

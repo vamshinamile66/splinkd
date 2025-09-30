@@ -1,0 +1,5 @@
+Entered username:ottsi1757697350@otsi.co.in
+Entered password:Test@12345
+Clicked On Login button
+Login successfull with newly created credentials
+Clicked on Sign Out button

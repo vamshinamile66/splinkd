@@ -1,0 +1,6 @@
+Mandatory field validations are captured:
+Date Of Birth
+*: Must be between 18 and 70 years old
+Mandatory field validations are captured:
+Date Of Birth
+*: Must be between 18 and 70 years old

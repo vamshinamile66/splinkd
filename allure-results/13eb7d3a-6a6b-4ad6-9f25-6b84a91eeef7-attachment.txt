@@ -1,0 +1,7 @@
+clicked on forgotpassword link
+Entered username:vamshinamilemore5@gmail.com
+Extracted OTP for vamshinamilemore5@gmail.com: 136348
+captured OTP value: {'136348'}
+clicked on resend link
+Entered OTP: {'136348'}
+Toast appeared: Invalid OTP

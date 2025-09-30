@@ -1,0 +1,4 @@
+clicked on forgotpassword link
+Clicked Continue button 5 times
+Error: Message: 
+

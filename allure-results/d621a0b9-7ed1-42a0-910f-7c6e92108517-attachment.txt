@@ -1,0 +1,6 @@
+Entered last name: @@@@@
+Clicked Create button
+Mandatory field validations are captured:
+Last Name
+*: Last Name can only include letters, numbers, spaces, &, ., -, and '
+Entered last name: damu

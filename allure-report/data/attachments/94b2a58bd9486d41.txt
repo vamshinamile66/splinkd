@@ -1,0 +1,20 @@
+✅clicked on add batch button
+✅Entered batch name: AA
+✅Entered start time: 1020A
+✅Entered end time: 1130A
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name must be at least 3 characters long
+✅Cleared field: ('xpath', "//input[@placeholder='Enter Batch name']")
+✅Entered batch name: test data test datatest datatest datatest datatest datatest datatest datatest datatest datatest datatest data
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name must be at most 100 characters long
+✅Cleared field: ('xpath', "//input[@placeholder='Enter Batch name']")
+✅Entered batch name: 12345
+✅clicked on save button
+Mandatory field validations are captured:
+Batch Name
+*: Batch Name must include at least one alphabetic character

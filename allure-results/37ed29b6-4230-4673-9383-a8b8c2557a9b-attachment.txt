@@ -1,0 +1,3 @@
+Mandatory field validations are captured:
+Email: Email is required
+Password: Password is required

@@ -1,0 +1,5 @@
+Entered password:a@123
+Entered confirm password:a@123
+clicked on continue button
+Mandatory field validations are captured:
+Password: Password must be at least 8 characters long

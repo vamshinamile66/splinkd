@@ -1,0 +1,6 @@
+clicked on signup link
+Entered username:ottsi1757697350@otsi.co.in
+clicked on continue button
+Extracted OTP for ottsi1757697350@otsi.co.in: 249320
+clicked on continue button
+Toast appeared: OTP is verified successfully. Please proceed to set your password.

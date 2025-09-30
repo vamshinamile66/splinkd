@@ -1,0 +1,6 @@
+📂 File uploaded: file1.xlsx
+✅ Uploaded file 'file1.xlsx' is displayed
+📂 File uploaded: data.txt
+✅ Uploaded file 'data.txt' is displayed
+📂 File uploaded: basketball.jpg
+❌ Uploaded file 'basketball.jpg' is not displayed

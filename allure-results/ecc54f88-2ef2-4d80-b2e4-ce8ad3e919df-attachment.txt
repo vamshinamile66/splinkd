@@ -1,0 +1,25 @@
+Clicked My Team tab
+Clicked Create Team Member button
+Entered first name: sanjay
+Entered last name: damu
+Clicked Select date of birth button
+Selected year: 1985
+Selected month: 8
+Selected day: 8
+Selected gender
+Entered email: narayan321@gmail.com
+Entered mobile number: 8012273585
+Clicked Overview input (checkbox)
+Entered first name: AA
+Clicked Create button
+Mandatory field validations are captured:
+First Name
+*: First Name must be at least 3 characters long
+Entered first name: test data test data test data test data test data data
+Clicked Create button
+Entered first name: 12345
+Clicked Create button
+Mandatory field validations are captured:
+First Name
+*: First Name must include at least one alphabetic character
+Entered first name: sanjay

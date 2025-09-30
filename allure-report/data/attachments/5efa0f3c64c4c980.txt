@@ -1,0 +1,4 @@
+Clicked Next to proceed to location selection
+Mandatory field validations are captured:
+Name of the Organization/Academy
+*: Title is required

@@ -1,0 +1,5 @@
+Entered new password: Test@1234
+Entered confirm password: Test@4321
+clicked on submit button
+Mandatory field validations are captured:
+Confirm Password: Passwords do not match

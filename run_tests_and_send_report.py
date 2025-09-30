@@ -16,9 +16,28 @@ def run_tests_and_generate_html_report():
     result = subprocess.run(
         [
             "pytest",
+            # "tests/test_signup.py",
+            # "tests/test_forgotpassword.py",
+            # "tests/test_academy_registration.py",
             "tests/test_login.py",
+            "tests/test_programs.py",
+            "tests/test_batch.py",
+            # "tests/test_athletes.py",
+            # "tests/test_coach.py",
+            # "tests/test_assign_athletes_to_batch.py",
+            # "tests/test_assign_coach_to_batch.py",
+            # "tests/test_academy_schedules.py",
+            # "tests/test_academy_overview.py",
+            # "tests/test_my_team.py",
+            # "tests/test_individual_coach.py",
+            # "tests/test_individual_athlete.py",
             "--html=report.html",
-            "--self-contained-html"
+            "--self-contained-html",
+            "--alluredir=allure-results"
+            # "--alluredir=allure-results"
+
+            
+
         ]
     )
     if result.returncode == 0:
@@ -51,8 +70,18 @@ if __name__ == "__main__":
     run_tests_and_generate_html_report()
     html_report = get_html_report_path()
     send_email_with_attachment(
-        subject="Pytest HTML Report",
-        body="Please find the attached Pytest HTML report.",
-        to_email="recipient@example.com",
+        subject="Splink Automation Test Report",
+      body = """
+Dear Team,
+
+Please find attached the automated test report for the Splink test cases, 
+
+Generated as part of the latest Continuous Integration (CI) execution.
+
+Best regards,
+Vamshi Namile,
+Test Engineer.
+""",
+        to_email="test@gmail.com",
         attachment_path=html_report
     )

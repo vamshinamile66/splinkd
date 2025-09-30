@@ -1,0 +1,7 @@
+academy regitration started
+Academy name entered: @@@@@
+Clicked on next button
+Mandatory field validations are captured:
+Name of the Organization/Academy: Title can only include letters, numbers, spaces, &, ., -, and '
+academy regitration started
+Academy name entered: QA Academy

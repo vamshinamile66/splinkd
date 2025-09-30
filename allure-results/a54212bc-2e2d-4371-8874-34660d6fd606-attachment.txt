@@ -1,0 +1,2 @@
+[INFO] Clicked Add Athlete submit button
+[INFO] Success message: 

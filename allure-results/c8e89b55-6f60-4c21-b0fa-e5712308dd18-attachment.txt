@@ -1,0 +1,7 @@
+✅Entered start time: 1130A
+✅Entered end time: 1020A
+✅clicked on save button
+Mandatory field validations are captured:
+All Days
+*: End time must be after start time
+✅clicked on cancel button

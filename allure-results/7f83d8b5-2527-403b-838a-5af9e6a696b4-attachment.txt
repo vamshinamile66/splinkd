@@ -1,0 +1,7 @@
+✅ Clicked Programs tab
+✅ Clicked Create New Program button
+✅Entered program title:{title}
+✅Entered program description:{description}
+✅Entered program price:{price}
+✅ Selected sport from dropdown
+✅ Selected best fit level
